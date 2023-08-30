@@ -21,7 +21,7 @@ const Home = () => {
             I have 4 years of experience building, managing and designing 
             business focused softwares and brands for modern businesses.
         My focuses are on MERN and MEAN Stacks while using
-        Technologies like Azure Devops, GraphQl, Jenkins,Jira, etc.
+        Technologies like Azure Devops, GraphQl, Jenkins,Jira, PowerBi, etc.
                 </p>
 
                 <div>
